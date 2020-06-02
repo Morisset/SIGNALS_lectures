@@ -1,6 +1,6 @@
 ## What to do to prepare yourself for the lectures:
 
-Everything will be available on the Canfar server. You need to have an account on it, check this with ???. Each participant will have acces to the cloudy program and the needed python libraries from Linux shell and Python 3 notebooks. 
+All the necessary software is installed and ready on the CANFAR server at [https://signals.canfar.net](https://signals.canfar.net). You need to have an account on GitHub and be part of the GitHub signals-sitelle organisation, check this with Laurie. Each participant will have acces to the cloudy program and the needed python libraries from Linux shell and Python 3 notebooks. 
 
 Anyway, if you want to follow the lecture using your own computer, you will need the following:
  
