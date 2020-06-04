@@ -35,4 +35,4 @@
     - combine models
     - Topologically equivalent models
     - Shadows and optical depth
-    - 3D models
+    - 3D models, ionization structure.
