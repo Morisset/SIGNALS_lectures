@@ -22,7 +22,7 @@
 ## Session 4 (June 15th, 13h EDT)
 
     - Cloudy and pyCloudy
-    - simple model, grid of models
+    - simple model, grid of models. Comapring making N models and using grid from Cloudy.
     - model fitting observations and limits
 
 ## Session 5 (June 17th, 13h EDT)
@@ -33,4 +33,6 @@
 ## Session 6 (June 19th, 13h EDT)
 
     - combine models
+    - Topologically equivalent models
+    - Shadows and optical depth
     - 3D models
