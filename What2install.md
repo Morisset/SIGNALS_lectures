@@ -14,6 +14,6 @@ Anyway, if you want to follow the lecture using your own computer, you will need
 ## Before starting the lecture, on your machine or the Canfar server:
 
 - open a terminal, download the lecture by `git clone https://github.com/Morisset/SIGNALS_lectures.git`
-- As I will certainly update the notebooks during the lecture (correcting mistake, making disgretions), the best is to **COPY** the notebooks I'm working with in another place to avoid my updates to delete any of your experiments: `cp -r SIGNALS_lectures/Notebooks/ Notebooks`
+- As I will certainly update the notebooks during the lecture (correcting mistake, making disgretions), the best is to **COPY** the notebooks I'm working with in another place to avoid my updates to delete any of your experiments: `cd ; mkdir my_Notebooks ; cp -r SIGNALS_lectures/Notebooks/* my_Notebooks`
 - **ALWAYS** open the Notebooks to play with from this Notebooks directory, **NOT** from the SIGNALS_lectures/Notebooks/. 
 - From time to time, I will ask you to update the Notebooks by: `cd SIGNALS_lectures; git pull`. This will not change your own Notebooks, so you can still have your own version of them.
