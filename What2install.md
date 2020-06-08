@@ -9,11 +9,11 @@ Anyway, if you want to follow the lecture using your own computer, you will need
 - **Python libraries**: You will need to have the ***numpy, pandas, scipy, matplotlib, h5py,  astropy, atpy, and pymysql*** libraries installed. Most of them are pre-installed for any decent python distribution, but check it before starting the lecture. You will also need PyNeb and pyCloudy. They can be installed from pip: 
    - `pip install pyneb` 
    - `pip install pyCloudy`
-- **The notebooks of the lectures**. They will be available from the following repository: https://github.com/Morisset/SIGNALS_lectures. The notebooks are still not on the repository, I will upload them a few hours before the first lecture. 
+- **The notebooks of the lectures**. They will be available from the following repository: https://github.com/Morisset/SIGNALS_lectures. See below on how to download them. 
 
 ## Before starting the lecture, on your machine or the Canfar server:
 
 - open a terminal, download the lecture by `git clone https://github.com/Morisset/SIGNALS_lectures.git`
-- As I will certainly update the notebooks during the lecture (correcting mistake, making disgretions), the best is to **COPY** the notebooks I'm working with in another place to avoid my updates to delete any of your experiments: `cd ; mkdir my_Notebooks ; cp -r SIGNALS_lectures/Notebooks/* my_Notebooks`
-- **ALWAYS** open the Notebooks to play with from this Notebooks directory, **NOT** from the SIGNALS_lectures/Notebooks/. 
+- As I will certainly update the notebooks during the lecture (correcting mistake, making disgretions), the best is to **COPY** the notebooks I'm working with into another place to avoid my updates to delete any of your experiments: `cd ; mkdir my_Notebooks ; cp -r SIGNALS_lectures/Notebooks/* my_Notebooks`
+- **ALWAYS** open the Notebooks to play with from this Notebooks directory, **NOT** from the SIGNALS_lectures/Notebooks/. Otherwise it may be complicated to update the Notebooks from my github repository, as you will have changes on your own version. If this is the case, you can always remove your local changes by doing `cd SIGNALS_lectures; git checkout -- .`
 - From time to time, I will ask you to update the Notebooks by: `cd SIGNALS_lectures; git pull`. This will not change your own Notebooks, so you can still have your own version of them.
