@@ -8,7 +8,7 @@
     - energy balance in HII regions
     - atomic data
 
-## Session 2 (June 10th, 13h EDT)
+## Session 2 (June 11th, 13h EDT)
 
     - deredenning
     - physical properties of HII regions
