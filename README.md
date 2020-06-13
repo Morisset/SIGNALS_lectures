@@ -22,7 +22,7 @@
 ## Session 4 (June 15th, 13h EDT)
 
     - Cloudy and pyCloudy
-    - simple model, grid of models. Comapring making N models and using grid from Cloudy.
+    - simple model, grid of models. Comparing making N models and using grid from Cloudy.
     - model fitting observations and limits
 
 ## Session 5 (June 17th, 13h EDT)
