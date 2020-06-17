@@ -28,7 +28,7 @@
 ## Session 5 (June 17th, 13h EDT)
 
     - grids of models (2)
-    - Strong lines methods and BOND models
+    - Strong lines methods and BOND models (Natalia Vale-Asarie)
     - 3MdB and 3MdBs
 
 ## Session 6 (June 19th, 13h EDT)
