@@ -5,22 +5,21 @@ channels:
 dependencies:
   - python
   - ipython
+  - numpy
   - scipy
   - jupyter
   - matplotlib
   - pandas
-  - astroquery
-  - astropy
   - scikit-learn
-  - tensorflow
+  - tensorflow=2.18
   - keras
   - seaborn 
   - pymysql
   - sqlalchemy
   - toml
-  - h5py
   - pip
   - pip:
     - pyneb
     - pycloudy
+    - python-dotenv
     - git+https://github.com/morisset/AI4neb.git
