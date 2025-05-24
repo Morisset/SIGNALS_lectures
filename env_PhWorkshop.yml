@@ -1,0 +1,26 @@
+name: PhWorkshop
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - ipython
+  - scipy
+  - jupyter
+  - matplotlib
+  - pandas
+  - astroquery
+  - astropy
+  - scikit-learn
+  - tensorflow
+  - keras
+  - seaborn 
+  - pymysql
+  - sqlalchemy
+  - toml
+  - h5py
+  - pip
+  - pip:
+    - pyneb
+    - pycloudy
+    - git+https://github.com/morisset/AI4neb.git
