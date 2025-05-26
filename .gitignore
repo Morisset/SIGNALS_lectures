@@ -111,3 +111,4 @@ SIGNALS_Models/
 pypics/
 
 *.gz
+.env
