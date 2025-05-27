@@ -107,7 +107,7 @@ venv.bak/
 .mypy_cache/
 .DS_Store
 
-SIGNALS_Models/
+SIGNALS_Models/M*
 pypics/
 
 *.gz
