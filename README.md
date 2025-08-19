@@ -1,39 +1,23 @@
-# SIGNALS_lectures
+# Toronto Workshop lectures May 2025
 
-## Session 1 (June 8th, 13h EDT)
+## Wednesday 28:
+### 9h-12h:
+- HII regions Theory.
+- Photoionization Models (1D and 3D).
 
-    - Introduction 
-    - emission processes
-    - line emissivities/intensities using PyNeb
-    - energy balance in HII regions
-    - atomic data
+### 12h-13h30:
+- Lunch.
 
-## Session 2 (June 11th, 13h EDT)
+### 13h30-16h:
+- Machine learning: multi-dimensional regressors (TensorFlow, scikit-learn).
 
-    - deredenning
-    - physical properties of HII regions
-    - plasma diagnostics
+## Tuesday 29:
+### 9h-12h:
+- 3MdB grids of Cloudy models.
+- Application of ANNs to HII region studies.
 
-## Session 3 (June 12th, 13h EDT)
+### 12h-13h30:
+- Lunch.
 
-    - abundances by direct method (ionic abundances, ICFs)
-    - strong line methods, calibrations (empirical, theoretical)
-
-## Session 4 (June 15th, 13h EDT)
-
-    - Cloudy and pyCloudy
-    - simple model, grid of models. Comparing making N models and using grid from Cloudy.
-    - model fitting observations and limits
-
-## Session 5 (June 17th, 13h EDT)
-
-    - grids of models (2)
-    - Strong lines methods and BOND models (Natalia Vale-Asarie)
-    - 3MdB and 3MdBs
-
-## Session 6 (June 19th, 13h EDT)
-
-    - combined models
-    - Topologically equivalent models
-    - 3D models, ionization structure.
-    
+### 13h30-16h:
+- 3D models, applied to HII regions spatially resolved observations.
